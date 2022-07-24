@@ -1,0 +1,2 @@
+# CGN
+colorscheme-generator-nvim
