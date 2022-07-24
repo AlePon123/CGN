@@ -1,0 +1,7 @@
+[palette]
+    fg = '#aaaaaa'
+    white = '#aaaaaa'
+
+[highlights]
+    String = { fg = '#bbbbbb',bg = '#123',bold = true }
+    Comment = { fg = "white", bold = true }
